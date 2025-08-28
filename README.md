@@ -32,7 +32,7 @@ This repository contains a curated list of continual learning papers and [BibTeX
 ## Survey
 
 * (`Book 18`) Lifelong Machine Learning
-* (PhD dissertation 19) Continual Learning with Deep Architectures
+* (==PhD dissertation 19==) Continual Learning with Deep Architectures
 * (PhD dissertation 19) Continual Learning in Neural Networks
 * (Trends in Cognitive Science 20) Embracing Change: Continual Learning in Deep Neural Networks
 * (TPAMI 21) A Continual Learning Survey: Defying Forgetting in Classification Tasks
