@@ -1,9 +1,20 @@
 # Awesome Continual Learning
-***Continual learning***, sometimes referred to as ***lifelong learning*** or ***incremental learning***, is a subfield of machine
-learning that focuses on the challenging problem of incrementally training models on *a stream of data* with
-*the aim of accumulating knowledge over time*.
+***Continual learning***, sometimes referred to as ***lifelong learning*** or ***incremental learning***, is a subfield of machine learning that focuses on the challenging problem of incrementally training models on *a stream of data* with
+*the aim of accumulating knowledge over time*. 
+
+Compare with:
+- multi-task learning (MTL): require all task data to be available upfront
+- transfer learning (TL) : focuse on limited tasks
+MTL and TL are impractical for dynamic, real-world applications.
 
 > key words:  `continual`, `lifelong`, `incremental`
+
+- LMs: *pre-trained* on large, unlabeled datasets to capture rich semantic information, which is then *fine-tuned* for specific tasks or domains
+ - Pre-trained Language Models (PLMs)
+ - Large Language Models (LLMs)
+ - Vision-Language Models (VLMs)
+
+---
 
 * [Survey](#Survey)
 * [Replay-based](#Replay-based)
