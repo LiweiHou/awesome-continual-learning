@@ -3,6 +3,7 @@
 learning that focuses on the challenging problem of incrementally training models on *a stream of data* with
 *the aim of accumulating knowledge over time*.
 
+> key words:  `continual`, `lifelong`, `incremental`
 
 * [Survey](#Survey)
 * [Replay-based](#Replay-based)
