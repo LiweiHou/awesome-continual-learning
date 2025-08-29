@@ -40,6 +40,7 @@ There has been a shift from traditional methods to those incorporating foundatio
   * [Vision-language learning](#Vision-language-learning)
   * [Reinforcement learning](#Reinforcement-learning)
   * [Sentiment Classification](#Sentiment-Classification)
+  * [Recommendation system](#Recommendation-system)
   * [Others](#Others)
 
 
@@ -66,8 +67,6 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (Neural Networks 23) A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning
 * (arXiv 23) A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning
 * (arXiv'23) Deep class-incremental learning: A survey
-* (arXiv'23) A survey on incremental update for neural recommender systems
-  * introducing the Incremental Update Recommendation Systems
 * (TPAMI 24) A Comprehensive Survey of Continual Learning: Theory, Method and Application
 * (TPAMI 24) Class-Incremental Learning: A Survey
 * (IJCAI 24) Continual Learning with Pre-Trained Models: A Survey
@@ -452,6 +451,10 @@ There has been a shift from traditional methods to those incorporating foundatio
 
 ### Sentiment Classification
 * (`EMNLP’21`) CLASSIC: Continual and contrastive learning of aspect sentiment classification tasks. [paper](https://arxiv.org/abs/2112.02714)
+
+### Recommendation system
+* (arXiv'23) A survey on incremental update for neural recommender systems
+  * introducing the Incremental Update Recommendation Systems
 
 ### Others
 
