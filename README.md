@@ -48,7 +48,7 @@ learning that focuses on the challenging problem of incrementally training model
 * (arXiv 24) Continual Learning of Large Language Models: A Comprehensive Survey
 * (arXiv 24) Recent Advances of Multimodal Continual Learning: A Comprehensive Survey
 * (TMLR 24) Continual Learning: Applications and the Road Forward. [paper](https://openreview.net/pdf?id=axBIMcGZn9)
-
+* ('ACM Computing Surveys'25') Recent advances of foundation language models-based continual learning: A survey. [paper](https://dl.acm.org/doi/abs/10.1145/3705725)
 
 ## Replay-based
 
