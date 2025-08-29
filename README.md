@@ -50,6 +50,7 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (`Dissertation'19`) Continual Learning with Deep Architectures
 * (PhD dissertation 19) Continual Learning in Neural Networks
 * (NN'19) Continual lifelong learning with neural networks: A review. [paper](https://www.sciencedirect.com/science/article/pii/S0893608019300231)
+* (COLING'20) Continual lifelong learning in natural language processing: A survey
 * (Trends in Cognitive Science 20) Embracing Change: Continual Learning in Deep Neural Networks
 * (TPAMI 21) A Continual Learning Survey: Defying Forgetting in Classification Tasks
   * concentrate on **CV** task incremental classification and offer significant contributions including a taxonomy, a new framework for balancing stability and plasticity, and an extensive comparison of continual learning methods against baselines.
@@ -60,6 +61,7 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (JAIR 22) Towards Continual Reinforcement Learning: A Review and Perspectives
 * (Neurocomputing 22) Online Continual Learning in Image Classification: An Empirical Survey
 * (arXiv 22) An Introduction to Lifelong Supervised Learning
+* (`arXiv'22`) Continual learning of natural language processing tasks: A survey.
 * (Trends in Neurosciences 23) Continual Task Learning in Natural and Artificial Agents
 * (Neural Networks 23) A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning
 * (arXiv 23) A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning
@@ -289,6 +291,8 @@ There has been a shift from traditional methods to those incorporating foundatio
 
 ## Empirical Study
 * (arXiv‘23） An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning. [paper](https://arxiv.org/abs/2308.08747)
+* (`ICTSD'24`)Continual learning under language shift
+  * examine the impact of pre-training sequence and linguistic characteristics on both forward and backward transfer effects across three distinct model sizes. 
 
 ## Application
 
