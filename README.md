@@ -29,6 +29,7 @@ MTL and TL are impractical for dynamic, real-world applications.
   * [Mask](#Mask)
   * [Decompose](#Decompose)
 * [Analytic](#Analytic)
+* [Empirical](#Empirical-Study)
 * [Application](#Application)
   * [Object detection](#Object-detection)
   * [Semantic segmentation](#Semantic-segmentation)
@@ -274,6 +275,8 @@ MTL and TL are impractical for dynamic, real-world applications.
 * (NeurIPS 23) A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm
 * (AAAI 24) DS-AL: A Dual-Stream Analytic Learning for Exemplar-Free Class-Incremental Learning
 
+## Empirical Study
+* (arXiv‘23） An Empirical Study of Catastrophic Forgetting in Large Language Models During Continual Fine-tuning. [paper](https://arxiv.org/abs/2308.08747)
 
 ## Application
 
