@@ -12,9 +12,9 @@ MTL and TL are impractical for dynamic, real-world applications.
 ---
 There has been a shift from traditional methods to those incorporating foundation LMs
 - LMs: *pre-trained* on large, unlabeled datasets to capture rich semantic information, which is then *fine-tuned* for specific tasks or domains
- - Pre-trained Language Models (PLMs)
- - Large Language Models (LLMs)
- - Vision-Language Models (VLMs)
+  - Pre-trained Language Models (PLMs)
+  - Large Language Models (LLMs)
+  - Vision-Language Models (VLMs)
 
 ---
 
