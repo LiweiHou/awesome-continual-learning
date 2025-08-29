@@ -52,6 +52,7 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (NN'19) Continual lifelong learning with neural networks: A review. [paper](https://www.sciencedirect.com/science/article/pii/S0893608019300231)
 * (Trends in Cognitive Science 20) Embracing Change: Continual Learning in Deep Neural Networks
 * (TPAMI 21) A Continual Learning Survey: Defying Forgetting in Classification Tasks
+  * concentrate on task incremental classification and offer significant contributions including a taxonomy, a new framework for balancing stability and plasticity, and an extensive comparison of continual learning methods against baselines.
 * (NN'21) A comprehensive study of class incremental learning algorithms for visual tasks. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608020304202)
 * (TPAMI'22) Class-incremental learning: survey and performance evaluation on image classification.
 * (JAIR 22) Towards Continual Reinforcement Learning: A Review and Perspectives
