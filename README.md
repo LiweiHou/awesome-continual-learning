@@ -49,14 +49,18 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (`Book'18`) Lifelong Machine Learning
 * (`Dissertation'19`) Continual Learning with Deep Architectures
 * (PhD dissertation 19) Continual Learning in Neural Networks
+* (NN'19) Continual lifelong learning with neural networks: A review. [paper](https://www.sciencedirect.com/science/article/pii/S0893608019300231)
 * (Trends in Cognitive Science 20) Embracing Change: Continual Learning in Deep Neural Networks
 * (TPAMI 21) A Continual Learning Survey: Defying Forgetting in Classification Tasks
+* (NN'21) A comprehensive study of class incremental learning algorithms for visual tasks. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608020304202)
+* (TPAMI'22) Class-incremental learning: survey and performance evaluation on image classification.
 * (JAIR 22) Towards Continual Reinforcement Learning: A Review and Perspectives
 * (Neurocomputing 22) Online Continual Learning in Image Classification: An Empirical Survey
 * (arXiv 22) An Introduction to Lifelong Supervised Learning
 * (Trends in Neurosciences 23) Continual Task Learning in Natural and Artificial Agents
 * (Neural Networks 23) A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning
 * (arXiv 23) A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning
+* (arXiv'23) Deep class-incremental learning: A survey
 * (TPAMI 24) A Comprehensive Survey of Continual Learning: Theory, Method and Application
 * (TPAMI 24) Class-Incremental Learning: A Survey
 * (IJCAI 24) Continual Learning with Pre-Trained Models: A Survey
