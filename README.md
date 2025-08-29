@@ -65,9 +65,12 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (TPAMI 24) Class-Incremental Learning: A Survey
 * (IJCAI 24) Continual Learning with Pre-Trained Models: A Survey
 * (arXiv 24) Continual Learning of Large Language Models: A Comprehensive Survey
+  * in-depth overview of CL, specifically in LLMs, introducing vertical CL (adapting from general to specific domains) and horizontal CL (adapting across time and domains).
 * (arXiv 24) Recent Advances of Multimodal Continual Learning: A Comprehensive Survey
 * (TMLR 24) Continual Learning: Applications and the Road Forward. [paper](https://openreview.net/pdf?id=axBIMcGZn9)
+* (`ACM Computing Surveys'25`) Towards lifelong learning of large language models: A survey
 * (`ACM Computing Surveys'25`) Recent advances of foundation language models-based continual learning: A survey. [paper](https://dl.acm.org/doi/abs/10.1145/3705725)
+
 
 
 ## Replay-based
