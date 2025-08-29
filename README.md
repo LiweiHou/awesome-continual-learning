@@ -36,6 +36,7 @@ MTL and TL are impractical for dynamic, real-world applications.
   * [Person re-identification](#Person-re-identification)
   * [Vision-language learning](#Vision-language-learning)
   * [Reinforcement learning](#Reinforcement-learning)
+  * [Sentiment Classification](#Sentiment-Classification)
   * [Others](#Others)
 
 
@@ -424,6 +425,9 @@ MTL and TL are impractical for dynamic, real-world applications.
 * (ICLR 22) Reinforcement Learning in Presence of Discrete Markovian Context Evolution
 * (NeurIPS 22) Off-Policy Evaluation for Action-Dependent Non-stationary Environments
 * (NeurIPS 22) Factored Adaptation for Non-Stationary Reinforcement Learning
+
+### Sentiment Classification
+* (`EMNLP’21`) CLASSIC: Continual and contrastive learning of aspect sentiment classification tasks. [paper](https://arxiv.org/abs/2112.02714)
 
 ### Others
 
