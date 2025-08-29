@@ -458,6 +458,7 @@ There has been a shift from traditional methods to those incorporating foundatio
   * introducing the Incremental Update Recommendation Systems
 
 ### Autonomous systems
+* (`Inf. Fusion'20`) Continual learning for robotics: Definition, framework, learning strategies, opportunities and challenges.
 * (`J. Intell. Robot. Syst'22`) Continual learning for real-world autonomous systems: Algorithms, challenges and frameworks.
 
 ### Others
