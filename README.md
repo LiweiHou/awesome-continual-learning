@@ -3,7 +3,6 @@
 learning that focuses on the challenging problem of incrementally training models on *a stream of data* with
 *the aim of accumulating knowledge over time*.
 
-This repository contains a curated list of continual learning papers and [BibTeX entries](./CL.bib) (mostly until 2022).
 
 * [Survey](#Survey)
 * [Replay-based](#Replay-based)
