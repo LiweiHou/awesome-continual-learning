@@ -62,7 +62,9 @@ MTL and TL are impractical for dynamic, real-world applications.
 * (TMLR 24) Continual Learning: Applications and the Road Forward. [paper](https://openreview.net/pdf?id=axBIMcGZn9)
 * (`ACM Computing Surveys'25`) Recent advances of foundation language models-based continual learning: A survey. [paper](https://dl.acm.org/doi/abs/10.1145/3705725)
 
+
 ## Replay-based
+> store a subset of data from previous tasks for future rehearsal via experience replay, representation consolidation or constrained optimization. The data can be either stored directly or synthesized by generative models.
 
 ### Memory replay
 
@@ -123,8 +125,8 @@ MTL and TL are impractical for dynamic, real-world applications.
 * (BMVC 24) CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning
 
 
-
 ## Regularization-based
+> restrict changes of model’s parameters to avoid inference with previously learned tasks .
 
 * (ICML 17) Continual Learning through Synaptic Intelligence
 * (ECCV 18) Memory Aware Synapses: Learning What (Not) to Forget
@@ -185,6 +187,7 @@ MTL and TL are impractical for dynamic, real-world applications.
 
 
 ## Architecture-based
+> learn different set of parameters dedicated for a separate task.
 
 * (ICLR 20) Continual Learning with Hypernetworks
 * (NeurIPS 21) DualNet: Continual Learning, Fast and Slow
