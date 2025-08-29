@@ -41,6 +41,7 @@ There has been a shift from traditional methods to those incorporating foundatio
   * [Reinforcement learning](#Reinforcement-learning)
   * [Sentiment Classification](#Sentiment-Classification)
   * [Recommendation system](#Recommendation-system)
+  * [Autonomous systems](#Autonomous-systems)
   * [Others](#Others)
 
 
@@ -455,6 +456,9 @@ There has been a shift from traditional methods to those incorporating foundatio
 ### Recommendation system
 * (arXiv'23) A survey on incremental update for neural recommender systems
   * introducing the Incremental Update Recommendation Systems
+
+### Autonomous systems
+* (`J. Intell. Robot. Syst'22`) Continual learning for real-world autonomous systems: Algorithms, challenges and frameworks.
 
 ### Others
 
