@@ -60,7 +60,9 @@ There has been a shift from traditional methods to those incorporating foundatio
   * [Person re-identification](#Person-re-identification)
   * [Vision-language learning](#Vision-language-learning)
   * [Reinforcement learning](#Reinforcement-learning)
-  * [Sentiment Classification](#Sentiment-Classification)
+  * [NLP task](#NLP-task)
+      * [Seq2seq language generation](#Seq2seq-language-generation)
+      * [Sentiment Classification](#Sentiment-Classification)
   * [Recommendation system](#Recommendation-system)
   * [Autonomous systems](#Autonomous-systems)
   * [Others](#Others)
@@ -164,7 +166,8 @@ There has been a shift from traditional methods to those incorporating foundatio
 
 
 ## Regularization-based
-> restrict changes of model’s parameters to avoid inference with previously learned tasks .
+
+> restrict changes of model’s parameters to avoid inference with previously learned tasks .
 
 * (ICML 17) Continual Learning through Synaptic Intelligence
 * (ECCV 18) Memory Aware Synapses: Learning What (Not) to Forget
@@ -221,7 +224,6 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (ICML 23) Prototype-Sample Relation Distillation: Towards Replay-Free Continual Learning
 * (ICCV 23) Dynamic Residual Classifier for Class Incremental Learning
 * (ICCV 23) Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning
-
 
 
 ## Architecture-based
@@ -471,7 +473,11 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (NeurIPS 22) Off-Policy Evaluation for Action-Dependent Non-stationary Environments
 * (NeurIPS 22) Factored Adaptation for Non-Stationary Reinforcement Learning
 
-### Sentiment Classification
+### NLP task
+
+#### Seq2seq language generation
+
+#### Sentiment Classification
 * (`EMNLP’21`) CLASSIC: Continual and contrastive learning of aspect sentiment classification tasks. [paper](https://arxiv.org/abs/2112.02714)
 
 ### Recommendation system
