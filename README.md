@@ -22,7 +22,9 @@ knowledge of previously learned classes**. e.g., `EPI`, `IDBR`, `GMM`.
     <img src="cat.png" alt="Different offline continual learning tasks" width="600" height="400">
 </div>
 
-- **Online Continual Learning**: This setting operates within a dynamic framework wherein the model learns knowledge from a stream of data points or mini-batches presented sequentially. Additionally, the model lacks access to the entire dataset for a given task. This setting closely mirrors real-world scenarios characterized by continuous data flow, compelling the model to adapt in real time.
+- **Online Continual Learning**: This setting operates within a dynamic framework wherein the model learns knowledge from a stream of data points or mini-batches presented sequentially. Additionally, the model lacks access to the entire dataset for a given task. This setting closely mirrors real-world scenarios characterized by continuous data flow, compelling the model to adapt in real time. The existing researches can be categorized into two configurations based on the *arrival pattern of tasks*:
+    - **Hard Task Boundary**: The arrival of tasks follows a strictly structured and sequential process. Data from the preceding task is completely processed before transitioning to the next task, ensuring no overlap of data between tasks. e.g., `MBPA++`, `PEGP`.
+    - **Blurry Task Boundary**: The distinction between tasks is less clear, similar to real-world scenarios. Data from different tasks are intermixed, making it difficult to pinpoint when one task ends and another begins. e.g., `SIT`, `G-NoCL`.
 
 
 ---
