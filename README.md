@@ -476,7 +476,7 @@ There has been a shift from traditional methods to those incorporating foundatio
 ### NLP task
 
 #### Seq2seq language generation
-* (`NAACM’22`，🌱RMR_DSE) Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation. [paper](https://aclanthology.org/2022.naacl-main.398.pdf)
+* 🌱`RMR_DSE` (`NAACM’22`) Overcoming Catastrophic Forgetting During Domain Adaptation of Seq2seq Language Generation. [paper](https://aclanthology.org/2022.naacl-main.398.pdf)
     * 将EWC的 Fisher 信息矩阵转换为可调超参数，以适应词汇相关的特性。引入生成函数梯度的正则项，进一步调节模型参数。
 
 #### Sentiment Classification
