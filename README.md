@@ -88,7 +88,7 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (arXiv 24) Recent Advances of Multimodal Continual Learning: A Comprehensive Survey
 * (TMLR 24) Continual Learning: Applications and the Road Forward. [paper](https://openreview.net/pdf?id=axBIMcGZn9)
 * (`ACM Computing Surveys'25`) Towards lifelong learning of large language models: A survey
-* &#10004 (`ACM Computing Surveys'25`) Recent advances of foundation language models-based continual learning: A survey. [paper](https://dl.acm.org/doi/abs/10.1145/3705725) 
+* - [x] (`ACM Computing Surveys'25`) Recent advances of foundation language models-based continual learning: A survey. [paper](https://dl.acm.org/doi/abs/10.1145/3705725) 
 
 
 
