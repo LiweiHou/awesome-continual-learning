@@ -15,6 +15,8 @@ Continual learning encompasses two principal paradigms: offline and online conti
 - **Offline Continual Learning**: This setting involves learning across a series of tasks, with each task fully presented before handling the next task. For each task t, the model trains on the entire dataset Dt through multiple epochs. The model progresses to task t + 1 only upon achieving the desired proficiency on task t.
 - **Online Continual Learning**: This setting operates within a dynamic framework wherein the model learns knowledge from a stream of data points or mini-batches presented sequentially. Additionally, the model lacks access to the entire dataset for a given task. This setting closely mirrors real-world scenarios characterized by continuous data flow, compelling the model to adapt in real time.
 
+![Different offline continual learning tasks](cat.png)
+
 ---
 There has been a shift from traditional methods to those incorporating foundation LMs
 - LMs: *pre-trained* on large, unlabeled datasets to capture rich semantic information, which is then *fine-tuned* for specific tasks or domains
