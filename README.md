@@ -17,7 +17,7 @@ Continual learning encompasses two principal paradigms: offline and online conti
 
 ![Different offline continual learning tasks](cat.png)
 
-<img src="cat.png" alt="Different offline continual learning tasks" width="300" height="200">
+<img src="cat.png" alt="Different offline continual learning tasks" width="600" height="400" style="display: block; margin: 0 auto;">
 
 ---
 There has been a shift from traditional methods to those incorporating foundation LMs
