@@ -17,6 +17,8 @@ Continual learning encompasses two principal paradigms: offline and online conti
 
 ![Different offline continual learning tasks](cat.png)
 
+<img src="cat.png" alt="Different offline continual learning tasks" width="300" height="200">
+
 ---
 There has been a shift from traditional methods to those incorporating foundation LMs
 - LMs: *pre-trained* on large, unlabeled datasets to capture rich semantic information, which is then *fine-tuned* for specific tasks or domains
