@@ -10,6 +10,12 @@ Compare CL with:
 MTL and TL are impractical for dynamic, real-world applications.
 
 ---
+
+Continual learning encompasses two principal paradigms: offline and online continual learning. These paradigms define how data arrives and how the model updates its knowledge over time.
+- **Offline Continual Learning**: This setting involves learning across a series of tasks, with each task fully presented before handling the next task. For each task t, the model trains on the entire dataset Dt through multiple epochs. The model progresses to task t + 1 only upon achieving the desired proficiency on task t.
+- **Online Continual Learning**: This setting operates within a dynamic framework wherein the model learns knowledge from a stream of data points or mini-batches presented sequentially. Additionally, the model lacks access to the entire dataset for a given task. This setting closely mirrors real-world scenarios characterized by continuous data flow, compelling the model to adapt in real time.
+
+---
 There has been a shift from traditional methods to those incorporating foundation LMs
 - LMs: *pre-trained* on large, unlabeled datasets to capture rich semantic information, which is then *fine-tuned* for specific tasks or domains
   - Pre-trained Language Models (`PLMs`)：ELMo , BERT, early versions of the GPT series , and RoBERTa
@@ -76,7 +82,7 @@ There has been a shift from traditional methods to those incorporating foundatio
 * (arXiv 24) Recent Advances of Multimodal Continual Learning: A Comprehensive Survey
 * (TMLR 24) Continual Learning: Applications and the Road Forward. [paper](https://openreview.net/pdf?id=axBIMcGZn9)
 * (`ACM Computing Surveys'25`) Towards lifelong learning of large language models: A survey
-* (`ACM Computing Surveys'25`) Recent advances of foundation language models-based continual learning: A survey. [paper](https://dl.acm.org/doi/abs/10.1145/3705725)
+* (`ACM Computing Surveys'25`) Recent advances of foundation language models-based continual learning: A survey. [paper](https://dl.acm.org/doi/abs/10.1145/3705725) ✓
 
 
 
