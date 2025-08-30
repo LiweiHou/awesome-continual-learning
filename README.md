@@ -13,6 +13,7 @@ MTL and TL are impractical for dynamic, real-world applications.
 
 Continual learning encompasses two principal paradigms: offline and online continual learning. These paradigms define how data arrives and how the model updates its knowledge over time.
 - **Offline Continual Learning**: This setting involves learning across a series of tasks, with each task fully presented before handling the next task. For each task t, the model trains on the entire dataset Dt through multiple epochs. The model progresses to task t + 1 only upon achieving the desired proficiency on task t.
+    - Domain-Incremental Learning (`DIL`): Specifically, in DIL, while the data distributions $p(X_t)$ in task $t$ and $p(X_{t'})$ in task $t'$ are different, their task types and class labels remain consistent. The task identities (task IDs) are not required.
 
 <div align="center">
     <img src="cat.png" alt="Different offline continual learning tasks" width="600" height="400">
@@ -93,7 +94,7 @@ There has been a shift from traditional methods to those incorporating foundatio
 
 
 ## Replay-based
-> store a subset of data from previous tasks for future rehearsal via experience replay, representation consolidation or constrained optimization. The data can be either stored directly or synthesized by generative models.
+> store a subset of data from previous tasks for future rehearsal via experience replay, representation consolidation or constrained optimization. The data can be either stored directly or synthesized by generative models.
 
 ### Memory replay
 
