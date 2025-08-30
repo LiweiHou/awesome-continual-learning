@@ -26,6 +26,9 @@ knowledge of previously learned classes**. e.g., `EPI`, `IDBR`, `GMM`.
     - **Hard Task Boundary**: The arrival of tasks follows a strictly structured and sequential process. Data from the preceding task is completely processed before transitioning to the next task, ensuring no overlap of data between tasks. e.g., `MBPA++`, `PEGP`.
     - **Blurry Task Boundary**: The distinction between tasks is less clear, similar to real-world scenarios. Data from different tasks are intermixed, making it difficult to pinpoint when one task ends and another begins. e.g., `SIT`, `G-NoCL`.
 
+<div align="center">
+    <img src="online.png" alt="Different online continual learning tasks" width="600" height="400">
+</div>
 
 ---
 There has been a shift from traditional methods to those incorporating foundation LMs
