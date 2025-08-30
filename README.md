@@ -481,6 +481,8 @@ There has been a shift from traditional methods to those incorporating foundatio
 
 #### Sentiment Classification
 * (`EMNLP’21`) CLASSIC: Continual and contrastive learning of aspect sentiment classification tasks. [paper](https://arxiv.org/abs/2112.02714)
+* 🌱`CL-KD` (`ACL’21`, `DIL`, `PLMs`) Learning to Solve NLP Tasks in an Incremental Number of Languages. [paper](https://aclanthology.org/2021.acl-short.106.pdf)
+    * 使用多语言BERT模型在初始语言集上进行预训练；在新语言数据上进行学生模型的训练，同时通过知识蒸馏从教师模型中获取先前语言的知识；重复上述过程，逐步增加新语言的支持。
 
 ### Recommendation system
 * (arXiv'23) A survey on incremental update for neural recommender systems
